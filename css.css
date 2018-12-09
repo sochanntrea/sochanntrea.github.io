@@ -1,0 +1,120 @@
+.d1{
+	position: absolute;
+	background-color: pink;
+	top: 100px;
+	left: 0px;
+	height: 625px;
+	width: 100px;
+}
+.d2{
+	position: absolute;
+	background-color: silver;
+	top: 0px;
+	left: 0px;
+	height: 100px;
+	width: 1550px;
+}
+.d3{
+	position: absolute;
+	background-color: yellow;
+	top: 200px;
+	left: 100px;
+	height: 525px;
+	width: 100px;
+}
+.d4{
+	position: absolute;
+	background-color:green;
+	top: 100px;
+	left: 100px;
+	height: 100px;
+	width: 1450px;
+}
+.d5{
+	position: absolute;
+	background-color: orange;
+	top: 300px;
+	left: 200px;
+	height: 425px;
+	width: 100px;
+}
+.d6{
+	position: absolute;
+	background-color: blue;
+	top: 200px;
+	left: 200px;
+	height: 100px;
+	width: 1350px;
+}
+.d7{
+	position: absolute;
+	background-color: aqua;
+	top: 400px;
+	left: 300px;
+	height: 325px;
+	width: 100px; 
+}
+.d8{
+	position: absolute;
+	background-color: red;
+	top: 300px;
+	left: 300px;
+	height: 100px;
+	width: 1250px;
+}
+.d9{
+	position: absolute;
+	background-color: brown;
+	top: 500px;
+	left: 400px;
+	height: 225px;
+	width:  100px;
+}
+.d10{
+	position: absolute;
+	background-color: teal;
+	top: 400px;
+	left: 400px;
+	height: 100px;
+	width: 1150px;
+}
+.d11{
+	position: absolute;
+	background-color: olive;
+	top: 600px;
+	left: 500px;
+	height: 125px;
+	width: 100px;
+}
+.d12{
+	position: absolute;
+	background-color: gray;
+	top: 500px;
+	left: 500px;
+	height: 100px;
+	width: 1050px;
+}
+.d13{
+	position: absolute;
+	background-color: fuchsia;
+	top: 700px;
+	left: 600px;
+	height: 25px;
+	width: 100px;
+}
+.d14{
+	position: absolute;
+	background-color: navy;
+	top: 600px;
+	left: 600px;
+	height: 100px;
+	width: 950px;
+}
+.d15{
+	position: absolute;
+	background-color: lime;
+	top: 700px;
+	left: 700px;
+	height: 25px;
+	width: 850px;
+	}
